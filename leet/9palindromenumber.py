@@ -10,3 +10,4 @@ class Leet9:
 
 print(Leet9.is_palindromenumber(121))
 print(Leet9.is_palindromenumber(-121))
+print(Leet9.is_palindromenumber(31213))
