@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f591b2d0-32b6-46a8-b846-f20a4af250b1" name="Changes" comment="Fixing duplicates">
+    <list default="true" id="f591b2d0-32b6-46a8-b846-f20a4af250b1" name="Changes" comment="Fixing files">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714622267279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixing files">
+      <option name="closed" value="true" />
+      <created>1714622440545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714622440545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +136,7 @@
     </ignored-roots>
     <MESSAGE value="Initial project" />
     <MESSAGE value="Fixing duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing duplicates" />
+    <MESSAGE value="Fixing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing files" />
   </component>
 </project>
